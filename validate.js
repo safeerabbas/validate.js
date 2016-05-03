@@ -1,4 +1,5 @@
 //for live validation
+//for form validation
 $(document).on('keydown blur change', '.invalid, .valid', function(e){
     //e.preventDefault();
     //checking for validations
